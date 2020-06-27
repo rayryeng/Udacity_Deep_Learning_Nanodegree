@@ -8,4 +8,8 @@ The goal is to predict the total demand for bike rentals on a per hour basis giv
 
 ## Project #2 - Dog Classification Project
 
-The goal is to predict the breed of dog given an image of one.  In addition, should a human be detected in the image, we output what the closest dog breed to that human would be in the image.  Please note that this project was already completed as part of my Machine Learning Engineer Capstone and can be found here: https://github.com/rayryeng/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/dog_breed_classification_capstone.  The same notebook and HTML render of the notebook was used for submission.  Please go to `Dog-Classification-Project-P2` for the notebook and HTML render.
+The goal is to predict the breed of dog given an image of one.  In addition, should a human be detected in the image, we output what the closest dog breed to that human would be in the image.  Please note that this project was already completed as part of my Machine Learning Engineer Capstone and can be found here: https://github.com/rayryeng/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/dog_breed_classification_capstone.  The same notebook and HTML render of the notebook was used for submission.  Please go to `Dog-Classification-Project-P2` for the notebook and HTML render.  The model checkpoints for the classifier can be found in the aforementioned directory too.
+
+## Project #3 - Generate Seinfeld TV Scripts
+
+The goal is to generate a Seinfeld TV script given text that contains multiple episodes of Seinfeld over multiple seasons.  This can be found in `Generate-TV-Scripts-P3`.  The completed notebook can be found in `Generate-TV-Scripts-P3/dlnd_tv_script_generation.ipynb`, with the HTML render of the notebook for submission.  The model checkpoint for the script generator can be found in the aforementioned directory too.
