@@ -13,3 +13,7 @@ The goal is to predict the breed of dog given an image of one.  In addition, sho
 ## Project #3 - Generate Seinfeld TV Scripts
 
 The goal is to generate a Seinfeld TV script given text that contains multiple episodes of Seinfeld over multiple seasons.  This can be found in `Generate-TV-Scripts-P3`.  The completed notebook can be found in `Generate-TV-Scripts-P3/dlnd_tv_script_generation.ipynb`, with the HTML render of the notebook for submission.  The model checkpoint for the script generator can be found in the aforementioned directory too.
+
+## Project #5 - Deploying a Sentiment Analysis Model with AWS SageMaker
+
+The goal of this project was to work with the IMDB movie review dataset and create a predictive model that can predict whether a movie review is positive or negative. The instructions for completion and deployment can be found in `Sentiment-Analysis-Model-P5`. The notebook file found in this directory is the overall assignment, with directions to modify the necessary files to complete the task.  Pleaste note that this project was already completed as part of my Machine Learning Engineer Nanodegree requirements and can be found here: https://github.com/rayryeng/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/sentiment_analysis_model.  The same notebook and HTML render of the notebook was used for submission.
